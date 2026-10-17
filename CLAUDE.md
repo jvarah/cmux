@@ -1,5 +1,12 @@
 # cmux agent notes
 
+## Scope
+
+These instructions apply to the cmux source tree rooted at the directory that
+contains this file. References to “this repository” mean that cmux checkout or
+worktree; they do not refer to a separate workspace, personal profile, or
+unrelated project. The local `AGENTS.md` is a symlink to this file.
+
 Keep repo-wide decisions here; procedures belong in [CONTRIBUTING.md](CONTRIBUTING.md),
 [area instructions](#area-instructions) and [task skills](skills/README.md).
 Read the matching skill before changing an area, then only the references needed.
